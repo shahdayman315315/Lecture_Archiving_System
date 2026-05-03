@@ -1,5 +1,6 @@
 import video_processing
 import image_enhancement
+import audio
 
 if __name__ == "__main__":
     
