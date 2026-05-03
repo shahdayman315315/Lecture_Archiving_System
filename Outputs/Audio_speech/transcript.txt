@@ -1,0 +1,9 @@
+==================================================
+ Lecture Transcript
+==================================================
+
+[API Error: recognition connection failed: [Errno 11001] getaddrinfo failed]
+
+==================================================
+ Important Keywords Found:
+  No keywords found.
