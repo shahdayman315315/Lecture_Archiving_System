@@ -3,7 +3,7 @@ import os
 import numpy as np  # ضروري جداً لمقارنة المصفوفات
 
 # 1. تحديد المسارات
-video_path = 'Input/Alpha beta pruning in artificial intelligence with example. - Crack Concepts (360p, h264).mp4'
+video_path = 'Input/Alpha beta pruning in artificial intelligence with example. - Crack Concepts (720p, h264).mp4'
 output_folder = 'Outputs/Captured_Photos'
 
 if not os.path.exists(output_folder):

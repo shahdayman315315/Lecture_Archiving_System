@@ -5,7 +5,7 @@ import os
 from moviepy import VideoFileClip
 
 # 1. تحديد المسارات
-video_path = 'Input/Alpha beta pruning in artificial intelligence with example. - Crack Concepts (360p, h264).mp4'
+video_path = 'Input/Alpha beta pruning in artificial intelligence with example. - Crack Concepts (720p, h264).mp4'
 output_folder = 'Outputs'
 
 if not os.path.exists(output_folder):
