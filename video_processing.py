@@ -3,7 +3,7 @@ import os
 import numpy as np  # ضروري جداً لمقارنة المصفوفات
 
 # 1. تحديد المسارات
-video_path = 'Input/Alpha beta pruning in AI Lecture..mp4'
+video_path = 'Input/(Cache mapping Questions) .mp4'
 output_folder = 'Outputs/Captured_Photos'
 
 if not os.path.exists(output_folder):

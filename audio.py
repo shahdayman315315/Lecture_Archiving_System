@@ -2,10 +2,10 @@ import numpy as np
 import scipy.io.wavfile as wav
 import scipy.signal as signal
 import os
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 
 # 1. تحديد المسارات
-video_path = 'Input/Alpha beta pruning in AI Lecture..mp4'
+video_path = 'Input/(Cache mapping Questions) .mp4'
 output_folder = 'Outputs'
 
 if not os.path.exists(output_folder):
