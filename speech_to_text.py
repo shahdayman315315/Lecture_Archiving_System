@@ -21,12 +21,11 @@ print("Loading and processing the first 60 seconds of audio...")
 
 try:
     with sr.AudioFile(cleaned_audio_path) as source:
-        # تحديد مدة المعالجة (دقيقة واحدة = 60 ثانية)
-        # لو الملف أصلاً أصغر من دقيقة، هياخد وقته الحقيقي
+
+
         process_duration = min(450, int(source.DURATION))
         print(f"Processing duration: {process_duration} seconds")
 
-        # تقسيم الدقيقة لقطعتين كل واحدة 30 ثانية لضمان الدقة
         chunk_size = 5
         for i in range(0, process_duration, chunk_size):
             # تسجيل الجزء الحالي
@@ -34,8 +33,7 @@ try:
 
             try:
                 print(f" Converting chunk {i} to {i + chunk_size} seconds...")
-                # بما إنك جربتي العربي، هنخليها ar-EG
-                chunk_text = recognizer.recognize_google(audio_chunk, language='ar-EG')
+                chunk_text = recognizer.recognize_google(audio_chunk, language='en-US')
                 full_text += chunk_text + " "
             except sr.UnknownValueError:
                 print(f" [Skipped] Chunk at {i}s: Could not understand audio.")
