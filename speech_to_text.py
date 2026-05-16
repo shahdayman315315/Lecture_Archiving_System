@@ -17,7 +17,7 @@ found_keywords = []
 keywords = ['important', 'exam', 'مهم', 'امتحان']
 
 # 3. معالجة الصوت (أول دقيقة فقط)
-print("Loading and processing the first 60 seconds of audio...")
+print("Loading and processing the audio...")
 
 try:
     with sr.AudioFile(cleaned_audio_path) as source:

@@ -3,26 +3,26 @@
 ==================================================
 
 today we are going to solve a sum on alpha beta pruning so in Alpha we basically have two values alpha and beta and prune
-basically mean go to ignore the next branches will understand this when so alpha contains the maximum value and beta contains
-the maths for this one Max Max and now what we're going to do is you want to start start the song initialising alpha is equal
-to minus infinity alpha always contains the maximum value what we do is we go left by left alpha is alpha is equal to minus
-infinity beta is equal to infinity now you're what is this mean means beta so only lower volume will be changed in this this
-node so now we are not again cheque from left to right now Left is for is infinity small or 10 small obviously 10 so this will
-but now again right hand side is 5 small or 10 small so 5 will be now again what is the Max Sony Alpha will be changed now is
-minus or is - infinity back or 5 which one is a bigger number infinity will be changed to I mean alpha will become fine same
-value the same value and this will become alpha is equal to 5 bet beta mean what is the so what it will become is every note
-we have to check whether alpha is greater than you could beta if that that particular note will be room I mean the next branch
-will be 2 I'll show it when when it comes now beta is equal to infinity seven small 11 small 700 so 7 now it will go what is
-the value Max only Al so is 5 Big and Max means maximum value so or 5 is equal 7 ok now it will go on top it will go what is
-the value of the Node mean I will be changed beta will be changed now is in vitam 7 minimum or sorry is infinity minim animal
-infinity minimum 7 is the least value so it will become now now this will go over here what is the value mean beta will be
-changed small or 12 small 7 Infinity 7 display but as you can see alpha is equal to bet prune means now we don't have pause
-this this is not going to be the solution so we put on it so we save the now as we what is the value of the Node means what is
-the Beta 777 no it won't stop your maximum since Max infinity minus infinity 7 which is the maximum say my little bit repeat
-again again down alpha is equal to 7 beta is equal to infinity which is small 500 infinity 5 now but now if alpha 7 beta is 5
-means alpha is greater than beta drivers just not your what is 7705 which is the maximum 7 same now now we have to what is the
-value of your mean mean 11 now similarly now we are 11 or 12 which is minimum 11 11:00 p.m. now over here now if you see maximum
-means alpha so 11 Infinity 11 Wright alpha 07 11 11 or 9 which is min..
+ basically mean go to ignore the next branches will understand this when so alpha contains the maximum value and beta contains
+ the maths for this one Max Max and now what we're going to do is you want to start start the song initialising alpha is equal
+ to minus infinity alpha always contains the maximum value what we do is we go left by left alpha is alpha is equal to minus
+ infinity beta is equal to infinity now you're what is this mean means beta so only lower volume will be changed in this this
+ node so now we are not again cheque from left to right now Left is for is infinity small or 10 small obviously 10 so this will
+ but now again right hand side is 5 small or 10 small so 5 will be now again what is the Max Sony Alpha will be changed now is
+ minus or is - infinity back or 5 which one is a bigger number infinity will be changed to I mean alpha will become fine same
+ value the same value and this will become alpha is equal to 5 bet beta mean what is the so what it will become is every note we
+ have to check whether alpha is greater than you could beta if that that particular note will be room I mean the next branch will
+ be 2 I'll show it when when it comes now beta is equal to infinity seven small 11 small 700 so 7 now it will go what is the value
+ Max only Al so is 5 Big and Max means maximum value so or 5 is equal 7 ok now it will go on top it will go what is the value of
+ the Node mean I will be changed beta will be changed now is in vitam 7 minimum or sorry is infinity minim animal infinity
+ minimum 7 is the least value so it will become now now this will go over here what is the value mean beta will be changed
+ small or 12 small 7 Infinity 7 display but as you can see alpha is equal to bet prune means now we don't have pause this
+ this is not going to be the solution so we put on it so we save the now as we what is the value of the Node means what is
+ the Beta 777 no it won't stop your maximum since Max infinity minus infinity 7 which is the maximum say my little bit repeat
+ again again down alpha is equal to 7 beta is equal to infinity which is small 500 infinity 5 now but now if alpha 7 beta is 5
+ means alpha is greater than beta drivers just not your what is 7705 which is the maximum 7 same now now we have to what is the
+ value of your mean mean 11 now similarly now we are 11 or 12 which is minimum 11 11:00 p.m. now over here now if you see maximum
+ means alpha so 11 Infinity 11 Wright alpha 07 11 11 or 9 which is min
 
 ==================================================
  Important Keywords Found:

@@ -2,6 +2,7 @@ import video_processing
 import audio
 import speech_to_text
 import image_enhancement
+import text_summary
 
 
 if __name__ == "__main__":
